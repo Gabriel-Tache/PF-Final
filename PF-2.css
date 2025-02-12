@@ -44,6 +44,7 @@ header {
     top: 50%;
     transform: translateY(-50%);
     right: 20px;
+	font-size: 10px;
 }
 
 .zone-gauche h1 {
